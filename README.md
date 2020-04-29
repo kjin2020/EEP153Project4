@@ -7,4 +7,4 @@ The file for estimate demand system are "EEP 153 Ethiopia Notebook (2).ipynb" an
 
 The file for cost estimation is "Demand&EngelCruve-9.ipynb". The file includes (1)demand&supply curve. (2)calculation of costs of subsidy & tax given the optimal quantity. (3)DWL and change of consumer expenditure by subsidy&tax. (4)A Engel curve.
 
-The file for nutrient system is
+The folder for nutrient system is "Nutritional Analysis".  It contains two jupyter notebooks, one for nutrient demand & one for nutrient adequacy + all necessary files/data to run.
